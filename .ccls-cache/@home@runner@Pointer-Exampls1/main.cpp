@@ -2,11 +2,11 @@
 using namespace std;
 
 int main(){
-
   int a;
   double d;
-  cout<<&a<<" size "<<sizeof(a) <<endl;
+  cout<<&a<<" size "<<sizeof(a) <<a<<endl;
   cout<<&d<<" size "<<sizeof(d) <<endl; 
+  
   
   /*  int x,*p;
     p=&x;
